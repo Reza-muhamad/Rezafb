@@ -1,5 +1,4 @@
 # Rezafb
-OPEN SOURCE CODE
 #### Instalasi Tools
 ``` bash
  pkg update && pkg upgrade
