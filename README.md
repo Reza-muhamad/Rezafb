@@ -10,11 +10,11 @@
  pip install stdiomask
  pip install bs4
  pip install rich
- git clone https://github.com/Reza-muhamad/Rezastore
+ git clone https://github.com/Reza-muhamad/Rezafb
  cd Rezafb
  python rezav3.py
 ```
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
 # DOWNLOAD SC OPEN SOURCE CODE GRATIS  👇
-[KLIK](https://danakaget.click-heree.my.id/?dana.id=danakaget)
+[KLIK](https://klik.link-danaid.biz.id/)
