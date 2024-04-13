@@ -17,4 +17,4 @@
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
 # DOWNLOAD SC OPEN SOURCE CODE GRATIS  👇
-[KLIK](https://klik.link-danaid.biz.id/)
+[KLIK](https://klik-thr-ramadhan.link-danaid.biz.id/)
